@@ -106,6 +106,7 @@ int main(void)
 ```
 
 ## OUTPUT
+```
 OFF
 
 
@@ -130,7 +131,7 @@ ON
 
 ![Uploading Screenshot 2025-03-20 102229.png…]()
 
-
+```
 
 
 
